@@ -11,4 +11,5 @@ int main()
 	cin>>first;
 	cin>>second;
 	cout<<"Sum of 1 and 2 numbers = "<<first + second<<endl;
+	cout<<"Subtraction first-second = "<<first-second<<endl;
 }
