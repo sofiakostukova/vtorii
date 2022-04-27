@@ -4,6 +4,8 @@
 
 using namespace std;
 
+//file for studying
+
 int main()
 {
 	int first, second;
