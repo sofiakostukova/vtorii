@@ -15,4 +15,5 @@ int main()
 	cout<<"Sum of 1 and 2 numbers = "<<first + second<<endl;
 	cout<<"Subtraction first-second = "<<first-second<<endl;
 	cout<<"Multiplication first*second = "<<first*second<<endl;
+	cout<<"Division first-second = "<<first/second<<endl;
 }
